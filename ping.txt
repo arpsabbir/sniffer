@@ -1,0 +1,10 @@
+17:47:50.312610 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 11, length 64
+17:47:51.335956 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 12, length 64
+17:47:52.359416 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 13, length 64
+17:47:53.384128 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 14, length 64
+17:47:54.407078 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 15, length 64
+17:47:55.453255 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 16, length 64
+17:47:56.453436 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 17, length 64
+17:47:57.476931 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 18, length 64
+17:47:58.500366 IP 192.168.2.60 > oba-X555LJ: ICMP echo request, id 1808, seq 19, length 64
+
