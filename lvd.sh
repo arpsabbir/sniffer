@@ -390,6 +390,10 @@ while [ "$1" != "" ]; do
     PARAM=`echo $1 | awk -F= '{print $1}'`
 
     case $PARAM in
+        -c | --clean)
+        rm *.txt *.pcap *.log
+        exit
+        ;;
         -h | --help)
         banner
      echo -e "${blue}+------------------------------------------------------------------------------------+${off}

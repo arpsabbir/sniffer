@@ -1,2 +1,0 @@
-Starting Nmap 7.80 ( https://nmap.org ) at 2020-01-30 16:39 CET
-Nmap done: 0 IP addresses (0 hosts up) scanned in 0.69 seconds
