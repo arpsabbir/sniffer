@@ -5,7 +5,7 @@
 
 <h5 align="center">LVD 🐅 Is a specific packet sniffer, it offer a wide range of vulnerability detection like arpspoof,dnsspoof,dhcpflood.. </h5><br><br>
 
-# LVD LAN Vulnerability Discover
+# LAN Vulnerability Discover
 ## "Spoof detection"
 ![spoofed](https://user-images.githubusercontent.com/42030023/73828905-5c116600-4802-11ea-8946-1d284b4dbf51.png)
 
