@@ -3,7 +3,7 @@
   <a href="https://github.com/omarbenabdejlil/sniffer"><img src=https://i.ibb.co/WHDjR5y/logo-1.png" alt="logo-1" border="0"></a>
 </h1>
 
-<h5 align="center">LVD 🐅 Is a specific packet sniffer, it offer a wide range of vulnerability detection like arpspoof,dnsspoof,dhcpflood.. </h5><br><br>
+<h5 align="center">LVD 🐅 Is a specific packet sniffer, it offers a wide range of vulnerability detection like arpspoof,dnsspoof,dhcpflood.. </h5><br><br>
 
 # LAN Vulnerability Discover
 ## "Spoof detection"
